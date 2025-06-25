@@ -2,7 +2,7 @@
 
 ```bash
 sudo apt update -y
-sudo apt install openjdk-21-jdk -y
+sudo apt install openjdk-17-jdk -y
 
 # Verify
 java -version
